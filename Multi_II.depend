@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1475657003 source:c:\users\dee\documents\cpp\multi_ii\list_child.cpp
+	"list_child.h"
+
+1475658478 c:\users\dee\documents\cpp\multi_ii\list_child.h
+	<iostream>
+
+1475656757 source:c:\users\dee\documents\cpp\multi_ii\list_parent.cpp
+	"list_parent.h"
+
+1475656716 c:\users\dee\documents\cpp\multi_ii\list_parent.h
+	<iostream>
+	"list_child.h"
+
+1475658432 source:c:\users\dee\documents\cpp\multi_ii\main.cpp
+	<iostream>
+	"list_parent.h"
+	"list_child.h"
+
+1475609332 source:d:\tubes asd\absence\list_child.cpp
+	"list_child.h"
+
+1475609332 d:\tubes asd\absence\list_child.h
+	<iostream>
+
+1475609332 source:d:\tubes asd\absence\main.cpp
+	<iostream>
+	"list_parent.h"
+	"list_child.h"
+
+1475609332 d:\tubes asd\absence\list_parent.h
+	<iostream>
+	"list_child.h"
+
+1480846071 source:e:\tubes asd\absence\list_parent.cpp
+	"list_parent.h"
+
+1480844031 e:\tubes asd\absence\list_parent.h
+	<iostream>
+	"list_child.h"
+
+1480845237 e:\tubes asd\absence\list_child.h
+	<iostream>
+	<conio.h>
+
+1480843289 source:e:\tubes asd\absence\main.cpp
+	<iostream>
+	"list_parent.h"
+	"list_child.h"
+	"cstdlib"
+
+1480846080 source:e:\tubes asd\absence\list_child.cpp
+	"list_child.h"
+
